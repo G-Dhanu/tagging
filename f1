@@ -1,2 +1,9 @@
 line1
+
 MERGE PB BY MASTER
+
+MERGE PB LINE
+feature
+
+
+merge conflict resolved
